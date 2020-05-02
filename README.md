@@ -44,7 +44,7 @@
 
 ## 🧐 About <a name = "about"></a>
 
-This project was built from a TraverseyMedia turtorial on youtube. It is a part of my portfolio but you are free to use it for you purposes as well.
+This project was built from a [Traversy Media](https://www.youtube.com/watch?v=Z57566JBaZQ) turtorial on youtube. It is a part of my portfolio but you are free to use it for you purposes as well.
 
 ## License <a name ="License"></a>
 
@@ -155,6 +155,4 @@ See also the list of [contributors](https://github.com/RileySeaburg/url-shortene
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Original Code [Traversy Media](https://github.com/bradtraversy)
