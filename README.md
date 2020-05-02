@@ -120,9 +120,9 @@ npm start
 
 This is just the backend so the best bet is to test with postman.
 
-### Break down into end to end tests
+### Test the urlshortener
 
-Test the urlshortener
+Call the api and enter your url to shorten.
 
 ```
 POST http://baseUrl/api/url/shorten
