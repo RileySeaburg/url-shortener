@@ -22,8 +22,11 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">This is a basic NodeJs url shortener.
     <br> 
+    So you don't have to keep using bitly
+    <br>
+    Also because Branding...
 </p>
 
 ## 📝 Table of Contents
@@ -40,7 +43,11 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This project was built from a TraverseyMedia turtorial on youtube. It is a part of my portfolio but you are free to use it for you purposes as well.
+
+## License <a name ="License"></a>
+
+This project is MIT Licensed.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
