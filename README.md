@@ -3,7 +3,7 @@
 <p align="center">
   <a href="" rel="noopener">
 
-<img width=500px height=500px src="https://i.imgur.com/oREkHSw.jpg" alt="Project logo">
+<img width=200px height=200px src="https://i.imgur.com/oREkHSw.jpg" alt="Project logo">
 
 </a>
 
