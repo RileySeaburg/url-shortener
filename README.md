@@ -51,7 +51,9 @@ This project was built from a TraverseyMedia turtorial on youtube. It is a part 
 This project is MIT Licensed.
 
 <p align="center" >
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
 </p>
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
